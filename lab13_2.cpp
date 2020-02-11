@@ -28,3 +28,8 @@ void inputMatrix(double A[][N]){
 	}
 
 }
+
+void findLocalMax(const double [][N], bool [][N]){
+	
+}
+
