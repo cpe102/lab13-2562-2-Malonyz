@@ -21,3 +21,10 @@ int main(){
 }
 
 // Write definition of inputMatrix(),matrixMultiply() and showMatrix() here
+void inputMatrix(double A[][N]){
+	for(int i=1;i<=N;i++){
+		cout <<"Row "<< i <<" : ";
+		cin >> A[i][N];
+	}
+
+}
